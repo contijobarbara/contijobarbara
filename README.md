@@ -1,7 +1,7 @@
 - oi,eu sou a barbara 
 - 👀 sou estudante do colegio rui barbosa,estou aprendendo html e css
 - 🌱 meu e-mail e barbara.contijo@escola.pr.gov.br
-- 💞️ 
+- 💞️ I´looking to collaborateon...
 - 📫 How to reach me ...
 
 <!---
